@@ -1,0 +1,14 @@
+{
+  "name": "Bluetooth-Arduino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/UCMercedACM/Bluetooth-Arduino.git",
+  "author": "Adrian Darian <adarian@ucmerced.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^7.1.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
